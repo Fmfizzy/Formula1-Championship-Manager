@@ -1,0 +1,5 @@
+1996/8/20%Escanor:8,John:9,bob:2,Gojou:10,jeff:3,Celty:5,Takumi:6,Xiao:7,Harris:4,Joseph Joestar:1,%10
+2003/7/7%Escanor:8,John:4,bob:10,Gojou:7,jeff:1,Celty:2,Takumi:3,Xiao:5,Harris:9,Joseph Joestar:6,%10
+1956/12/3%Escanor:10,John:8,bob:7,Gojou:2,jeff:6,Celty:4,Takumi:5,Xiao:3,Harris:1,Joseph Joestar:9,%10
+1951/3/30%Escanor:10,John:5,bob:2,Gojou:1,jeff:9,Celty:3,Takumi:4,Xiao:7,Harris:8,Joseph Joestar:6,%10
+1990/10/8%Escanor:5,John:6,bob:4,Gojou:3,jeff:1,Celty:8,Takumi:10,Xiao:2,Harris:9,Joseph Joestar:7,%10
